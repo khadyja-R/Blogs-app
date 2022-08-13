@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Roboto+Slab&display=swap');
+
+*{
+  margin: 0%;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url("https://media.istockphoto.com/photos/retro-blog-bulb-sign-with-leather-armchair-picture-id1049277550?k=20&m=1049277550&s=612x612&w=0&h=5RRvTDAYeWqgZ9g6Zp5v03tgmm4Px0h3PhI4BsoysPY=")  ;
+  /* height: 1000%;
+  background-position: center;
+  background-size: cover;
+  position:relative; */
+
+
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
